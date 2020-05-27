@@ -1,0 +1,13 @@
+dask[complete]
+distributed
+dask-jobqueue
+numpy
+pandas
+matplotlib
+jupyterlab
+xarray
+netcdf4
+zarr
+jupyter-server-proxy
+intake-esm
+fsspec
