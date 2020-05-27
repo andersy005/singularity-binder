@@ -14,9 +14,7 @@ dependencies:
   - jupyter-server-proxy
   - matplotlib
   - netcdf4
-  - numba
   - pandas
-  - python-graphviz
   - scipy
   - xarray
   - zarr
