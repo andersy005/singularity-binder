@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# load Jupyter Lab extensions
+jupyter labextension install @pyviz/jupyterlab_pyviz
+jupyter labextension install @jupyterlab/server-proxy
+jupyter labextension install --clean dask-labextension \
+                             @jupyter-widgets/jupyterlab-manager
+
+#EOF

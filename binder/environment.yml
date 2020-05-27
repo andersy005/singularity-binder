@@ -1,0 +1,26 @@
+name: singularity
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - dask
+  - dask-jobqueue
+  - dask-labextension
+  - distributed
+  - fsspec
+  - geoviews
+  - holoviews
+  - hvplot
+  - intake
+  - jupyter-server-proxy
+  - matplotlib
+  - mpi4py
+  - netcdf4
+  - numba
+  - pandas
+  - proplot
+  - pytest
+  - python-blosc
+  - scipy
+  - xarray
+  - zarr
