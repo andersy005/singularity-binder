@@ -2,6 +2,7 @@ name: singularity
 channels:
   - conda-forge
 dependencies:
+  - python=3.8
   - dask
   - dask-jobqueue
   - dask-labextension
