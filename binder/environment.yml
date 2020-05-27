@@ -2,7 +2,6 @@ name: singularity
 channels:
   - conda-forge
 dependencies:
-  - cartopy
   - dask
   - dask-jobqueue
   - dask-labextension
@@ -17,8 +16,6 @@ dependencies:
   - netcdf4
   - numba
   - pandas
-  - pytest
-  - python-blosc
   - scipy
   - xarray
   - zarr
